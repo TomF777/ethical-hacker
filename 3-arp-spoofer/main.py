@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 """
+Ver: Python3
+
 this program acts as ARP spoofer
 format for calling the program:
 sudo python3 main.py -t TARGET_IP_ADDRESS -g GATEWAY_IP_ADDRESS

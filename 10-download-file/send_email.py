@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+Ver: Python3
+"""
+
 import smtplib, ssl
 from email.mime.text import MIMEText
 
