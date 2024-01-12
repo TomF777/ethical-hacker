@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 """
+Ver: Python3
+
 It reads all traffic flowing through given interface  sniff("eth0")
 Start the app and generate some traffic by calling a webpage to see traffic capture
 It captures user logging data from not secured (http) webpages like:  http://testphp.vulnweb.com/login.php

@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
 """
+Ver: Python3
+
 this program scans given network target
 
 format for calling the program:

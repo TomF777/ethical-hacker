@@ -1,6 +1,8 @@
 # !/usr/bin/env python
 
 """
+Ver: Python3
+
 this program changes mac address of given NIC.
 format for calling the program:
 sudo python3 main.py -i ens33 -m 00:99:22:88:33:77
